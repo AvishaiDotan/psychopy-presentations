@@ -1,2 +1,3 @@
 # psychopy-presentations
-Presentations that accompanied a lesson given to students in the cognitive psychology laboratory.
+Presentations given in Ariel's Numerical Cognition Lab include exercises.
+Language: Hebrew .
